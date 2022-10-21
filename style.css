@@ -76,7 +76,7 @@ body,
 
 /* content */
 .container {
-	width: calc(var(--index) * 20.5);
+	width: 160px;
 	height: 580px;
 	position: relative;
 	background: #fff;
