@@ -45,7 +45,7 @@ body,
 
 .wrap {
 	margin: 0 auto 20px;
-	padding: 50px 10px;
+	padding: 30px 10px 0 10px;
 }
 
 .wrap>div {
@@ -77,10 +77,8 @@ body,
 /* content */
 .container {
 	width: calc(var(--index) * 20.5);
-	height: 420px;
+	height: 620px;
 	position: relative;
-
-
 	background: #fff;
 }
 
@@ -109,7 +107,7 @@ body,
 
 .content-list li input {
 	text-decoration: none;
-	font-size: calc(var(--index) * 1.7);
+	font-size: 17px;
 	width: 100%;
 	border: 0;
 	border-bottom: 1px solid #efefef;
