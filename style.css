@@ -70,14 +70,14 @@ body,
 
 .title {
 	line-height: 1;
-	font-size: calc(var(--index) * 2.5);
+	font-size: 27px;
 	font-weight: bold;
 }
 
 /* content */
 .container {
 	width: calc(var(--index) * 20.5);
-	height: 620px;
+	height: 580px;
 	position: relative;
 	background: #fff;
 }
