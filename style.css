@@ -64,7 +64,7 @@ body,
 }
 
 :root {
-	--index: calc(1vw + 1vh);
+	
 	--color-Silver-Chalice: rgba(0, 0, 0, 0.3)
 }
 
@@ -87,7 +87,7 @@ body,
 	position: absolute;
 	left: 0px;
 	right: 0px;
-	top: calc(var(--index) * 7);
+	top: 80px;
 	bottom: 7px;
 }
 
