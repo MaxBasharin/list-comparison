@@ -64,7 +64,6 @@ body,
 }
 
 :root {
-	
 	--color-Silver-Chalice: rgba(0, 0, 0, 0.3)
 }
 
@@ -82,14 +81,14 @@ body,
 	background: #fff;
 }
 
-.viewport {
+/* .viewport {
 	overflow: hidden;
 	position: absolute;
 	left: 0px;
 	right: 0px;
 	top: 80px;
 	bottom: 7px;
-}
+} */
 
 .content-box {
 	height: 100%;
